@@ -1,0 +1,6 @@
+GENRE
+Indie rock|Indie rock is a subgenre of rock music that originated in the United States, United Kingdom and New Zealand from the 1970s to the 1980s.
+Indie folk|Indie folk is a music genre that arose in the 1990s among musicians from indie rock scenes influenced by folk music
+Heavy Metal|Heavy metal (or simply metal) is a genre of rock music that developed in the late 1960s and early 1970s, largely in the United Kingdom and United States
+Rock|Rock music is a broad genre of popular music that originated as "rock and roll" in the United States in the late 1940s and early 1950s
+Pop|Pop music is a genre of popular music that originated in its modern form during the mid-1950s in the United States and the United Kingdom

@@ -1,0 +1,8 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="01_title_release_tom_hanks.sql" type="DatabaseScript" editBeforeRun="true" nameIsGenerated="true">
+    <script-file value="$PROJECT_DIR$/Exercises/01_title_release_tom_hanks.sql" />
+    <script-mode>FILE</script-mode>
+    <data-source id="08785f78-8163-4187-a26f-07e20a6cc523" />
+    <method v="2" />
+  </configuration>
+</component>

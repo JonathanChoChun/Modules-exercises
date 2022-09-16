@@ -1,0 +1,3 @@
+not an ALBUM
+Title|Artist|Genre|Price
+Track (Song Title)|Length of Play

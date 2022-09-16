@@ -1,0 +1,12 @@
+body {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+header {
+  background-color: cadetblue;
+  color: #000000;
+  /* color: rgb(0,0,0); */
+}
+img {
+  width: 100px;
+  height: 50;
+}

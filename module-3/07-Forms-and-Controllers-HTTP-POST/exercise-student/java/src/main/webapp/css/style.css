@@ -1,0 +1,11 @@
+.review{
+    border-bottom: 5px solid grey;
+    /*background: lightblue;*/
+    margin-bottom: 2%;
+}
+
+.filled:before {
+    content: "\2605";
+    color: #FFC000;
+    position: absolute;
+}

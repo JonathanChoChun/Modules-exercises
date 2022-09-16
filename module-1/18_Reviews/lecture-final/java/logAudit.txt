@@ -1,0 +1,94 @@
+2022-08-03 at 12:12:04 BST,Audit,Reading - Abba.txt
+2022-08-03 at 12:12:04 BST,Audit,Reading - albums1.txt
+2022-08-03 at 12:12:04 BST,Audit,Reading - Brightside.txt
+2022-08-03 at 12:12:04 BST,Audit,Reading - Eagels-OneOfThoseNights.txt
+2022-08-03 at 12:12:04 BST,Audit,Reading - genres.txt
+2022-08-03 at 12:12:04 BST,Audit,Reading detail for - genres.txt - as a genre
+2022-08-03 at 12:12:04 BST,Audit,Reading - Metallica.txt
+2022-08-03 at 12:12:04 BST,Audit,Reading - Midtomnatten.txt
+2022-08-03 at 12:12:04 BST,Audit,Reading - MorningGlory.txt
+2022-08-03 at 12:12:04 BST,Audit,Reading - WhereDoWeGo.txt
+2022-08-03 at 12:12:04 BST,Audit,Reading - Wombats.txt
+2022-08-03 at 12:12:04 BST,Audit,Reading - Abba.txt
+2022-08-03 at 12:12:04 BST,Audit,Reading detail for - Abba.txt - as a album
+2022-08-03 at 12:12:04 BST,Audit,Reading - albums1.txt
+2022-08-03 at 12:12:04 BST,Audit,Reading - Brightside.txt
+2022-08-03 at 12:12:04 BST,Audit,Reading detail for - Brightside.txt - as a album
+2022-08-03 at 12:12:04 BST,Audit,Reading - Eagels-OneOfThoseNights.txt
+2022-08-03 at 12:12:04 BST,Audit,Reading detail for - Eagels-OneOfThoseNights.txt - as a album
+2022-08-03 at 12:12:04 BST,Audit,Reading - genres.txt
+2022-08-03 at 12:12:04 BST,Audit,Reading - Metallica.txt
+2022-08-03 at 12:12:04 BST,Audit,Reading detail for - Metallica.txt - as a album
+2022-08-03 at 12:12:04 BST,Audit,Reading - Midtomnatten.txt
+2022-08-03 at 12:12:04 BST,Audit,Reading detail for - Midtomnatten.txt - as a album
+2022-08-03 at 12:12:04 BST,Audit,Reading - MorningGlory.txt
+2022-08-03 at 12:12:04 BST,Audit,Reading detail for - MorningGlory.txt - as a album
+2022-08-03 at 12:12:04 BST,Audit,Reading - WhereDoWeGo.txt
+2022-08-03 at 12:12:04 BST,Audit,Reading detail for - WhereDoWeGo.txt - as a album
+2022-08-03 at 12:12:04 BST,Audit,Reading - Wombats.txt
+2022-08-03 at 12:12:04 BST,Audit,Reading detail for - Wombats.txt - as a album
+2022-08-03 at 12:12:33 BST,Audit,Picking:Enter Sandman
+2022-08-03 at 12:12:45 BST,Audit,Picking:Enter Sandman
+2022-08-03 at 12:12:47 BST,Audit,Picking:One of These Nights
+2022-08-03 at 12:12:49 BST,Audit,Picking:Brightside
+2022-08-03 at 12:12:51 BST,Audit,Picking:One of These Nights
+2022-08-03 at 12:12:51 BST,Audit,Picking:Enter Sandman
+2022-08-03 at 12:12:52 BST,Audit,Picking:Midt om natten
+2022-08-03 at 12:36:08 BST,Audit,Reading - Abba.txt
+2022-08-03 at 12:36:08 BST,Audit,Reading - albums1.txt
+2022-08-03 at 12:36:08 BST,Audit,Reading - Brightside.txt
+2022-08-03 at 12:36:08 BST,Audit,Reading - Eagels-OneOfThoseNights.txt
+2022-08-03 at 12:36:08 BST,Audit,Reading - genres.txt
+2022-08-03 at 12:36:08 BST,Audit,Reading detail for - genres.txt - as a genre
+2022-08-03 at 12:36:08 BST,Audit,Reading - Metallica.txt
+2022-08-03 at 12:36:08 BST,Audit,Reading - Midtomnatten.txt
+2022-08-03 at 12:36:08 BST,Audit,Reading - MorningGlory.txt
+2022-08-03 at 12:36:08 BST,Audit,Reading - WhereDoWeGo.txt
+2022-08-03 at 12:36:08 BST,Audit,Reading - Wombats.txt
+2022-08-03 at 12:36:08 BST,Audit,Reading - Abba.txt
+2022-08-03 at 12:36:08 BST,Audit,Reading detail for - Abba.txt - as a album
+2022-08-03 at 12:36:08 BST,Audit,Reading - albums1.txt
+2022-08-03 at 12:36:08 BST,Audit,Reading - Brightside.txt
+2022-08-03 at 12:36:08 BST,Audit,Reading detail for - Brightside.txt - as a album
+2022-08-03 at 12:36:08 BST,Audit,Reading - Eagels-OneOfThoseNights.txt
+2022-08-03 at 12:36:08 BST,Audit,Reading detail for - Eagels-OneOfThoseNights.txt - as a album
+2022-08-03 at 12:36:08 BST,Audit,Reading - genres.txt
+2022-08-03 at 12:36:08 BST,Audit,Reading - Metallica.txt
+2022-08-03 at 12:36:08 BST,Audit,Reading detail for - Metallica.txt - as a album
+2022-08-03 at 12:36:08 BST,Audit,Reading - Midtomnatten.txt
+2022-08-03 at 12:36:08 BST,Audit,Reading detail for - Midtomnatten.txt - as a album
+2022-08-03 at 12:36:08 BST,Audit,Reading - MorningGlory.txt
+2022-08-03 at 12:36:08 BST,Audit,Reading detail for - MorningGlory.txt - as a album
+2022-08-03 at 12:36:08 BST,Audit,Reading - WhereDoWeGo.txt
+2022-08-03 at 12:36:08 BST,Audit,Reading detail for - WhereDoWeGo.txt - as a album
+2022-08-03 at 12:36:08 BST,Audit,Reading - Wombats.txt
+2022-08-03 at 12:36:08 BST,Audit,Reading detail for - Wombats.txt - as a album
+2022-08-03 at 14:38:26 BST,Audit,Reading - Abba.txt
+2022-08-03 at 14:38:26 BST,Audit,Reading - albums1.txt
+2022-08-03 at 14:38:26 BST,Audit,Reading - Brightside.txt
+2022-08-03 at 14:38:26 BST,Audit,Reading - Eagels-OneOfThoseNights.txt
+2022-08-03 at 14:38:26 BST,Audit,Reading - genres.txt
+2022-08-03 at 14:38:26 BST,Audit,Reading detail for - genres.txt - as a genre
+2022-08-03 at 14:38:26 BST,Audit,Reading - Metallica.txt
+2022-08-03 at 14:38:26 BST,Audit,Reading - Midtomnatten.txt
+2022-08-03 at 14:38:26 BST,Audit,Reading - MorningGlory.txt
+2022-08-03 at 14:38:26 BST,Audit,Reading - WhereDoWeGo.txt
+2022-08-03 at 14:38:26 BST,Audit,Reading - Wombats.txt
+2022-08-03 at 14:38:26 BST,Audit,Reading - Abba.txt
+2022-08-03 at 14:38:26 BST,Audit,Reading detail for - Abba.txt - as a album
+2022-08-03 at 14:38:26 BST,Audit,Reading - albums1.txt
+2022-08-03 at 14:38:26 BST,Audit,Reading - Brightside.txt
+2022-08-03 at 14:38:26 BST,Audit,Reading detail for - Brightside.txt - as a album
+2022-08-03 at 14:38:26 BST,Audit,Reading - Eagels-OneOfThoseNights.txt
+2022-08-03 at 14:38:26 BST,Audit,Reading detail for - Eagels-OneOfThoseNights.txt - as a album
+2022-08-03 at 14:38:26 BST,Audit,Reading - genres.txt
+2022-08-03 at 14:38:26 BST,Audit,Reading - Metallica.txt
+2022-08-03 at 14:38:26 BST,Audit,Reading detail for - Metallica.txt - as a album
+2022-08-03 at 14:38:26 BST,Audit,Reading - Midtomnatten.txt
+2022-08-03 at 14:38:26 BST,Audit,Reading detail for - Midtomnatten.txt - as a album
+2022-08-03 at 14:38:26 BST,Audit,Reading - MorningGlory.txt
+2022-08-03 at 14:38:26 BST,Audit,Reading detail for - MorningGlory.txt - as a album
+2022-08-03 at 14:38:26 BST,Audit,Reading - WhereDoWeGo.txt
+2022-08-03 at 14:38:26 BST,Audit,Reading detail for - WhereDoWeGo.txt - as a album
+2022-08-03 at 14:38:26 BST,Audit,Reading - Wombats.txt
+2022-08-03 at 14:38:26 BST,Audit,Reading detail for - Wombats.txt - as a album

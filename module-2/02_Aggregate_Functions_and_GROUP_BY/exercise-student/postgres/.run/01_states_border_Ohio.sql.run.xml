@@ -1,0 +1,8 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="01_states_border_Ohio.sql" type="DatabaseScript" editBeforeRun="true" nameIsGenerated="true">
+    <script-file value="$PROJECT_DIR$/Exercises/01_states_border_Ohio.sql" />
+    <script-mode>FILE</script-mode>
+    <data-source id="19008efb-15c9-4767-ac41-f3f73e95f842" />
+    <method v="2" />
+  </configuration>
+</component>

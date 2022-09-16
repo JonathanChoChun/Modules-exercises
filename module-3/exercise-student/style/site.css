@@ -1,0 +1,183 @@
+/* background colour of navigation bar*/
+
+*{
+    margin: 0;
+  
+}
+div.topnav {
+    background-color: #000000;
+    overflow: hidden;
+    color: white;
+    font-family: "Josefin Sans", Sans-serif;
+    height: 65px;
+    padding: 15px 15px;
+    padding-left: 25px;
+  }
+
+div.topnav a {
+    text-decoration: none;
+    color: white;
+    
+}
+
+div.topnav a:hover {
+    background-color: black;
+    color:#C9E2FF;
+  }
+
+div.topnav img {
+    width: 60px;
+    height: 60px;
+    float: right;
+    padding-right: 25px;
+    
+  }
+
+  
+.container {
+height: 800px;
+margin-right: 10%;
+/* background-color: red; */
+  } 
+
+
+.book-text {
+    /* padding-left: 100px; */
+    /* padding-top: 5%; */
+    /* display: inline; */
+    /* background-color:  red; */
+    display:inline;
+    width:50%;
+    float: right;
+    height:100%;
+  }
+
+.book-image{
+    display:inline;
+    width:50%;
+    /* background-color:  lightblue; */
+    position: relative;
+    float: left;
+    
+    height:100%;
+  }
+
+.book-image img{    
+    box-shadow: 0px 0px 30px grey;
+    float: right;
+    margin-top: 10%;
+    /* padding-bottom: 10%; */
+    margin-right:11%;
+    height: auto;
+    width: 57% ;
+    
+    /* background-color: blue; */
+}
+
+.book-text h1{
+    font-family: "Josefin Sans", Sans-serif;
+    font-size: 300%;
+    margin-top: 10%;
+    margin-left:2%;
+    /* background-color:    lightyellow; */
+    ;
+    margin-right: 10%;
+}
+
+.book-text p{
+    font-family: "Josefin Sans", Sans-serif;
+    font-size: 170%;
+    margin-top: 2%;
+    margin-left:2%;
+    /* background-color: lightyellow; */
+    margin-right: 10%;
+}
+
+.styled-table {
+    border-collapse: collapse;
+    font-size: 130%;
+    font-family: "Josefin Sans", Sans-serif;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.15);
+    /* background-color: lightyellow; */
+    margin-top: 3%;
+    margin-left:2%;
+    margin-right: 17%;
+    border-radius: 30px 30px 30px 30px;
+ 
+    
+}
+
+
+.styled-table thead tr {
+    background-color: powderblue	;
+    color: black;
+    text-align: left;
+    
+    
+    
+}
+
+.styled-table th,
+.styled-table td {
+    padding: 12px 15px;
+    
+  
+
+}
+
+.styled-table tbody tr:nth-of-type(even) {
+    background-color: #f3f3f3;
+  
+}
+
+
+div.container-right-bottom {
+    margin-top: 3%;
+    margin-left: 2%;
+    margin-right: 10%;
+    background-color: pink;
+    font-family: "Josefin Sans", Sans-serif;
+    
+}
+.quote {   
+    
+    border-radius: 0.5em;
+    width: 50%;
+    background-color: #EAFAFA;
+    float: left;
+    font-size: 160%;
+    
+
+
+}
+.quote figcaption,
+.quote blockquote {
+    padding:0.9em;
+    font-style: italic;
+  
+}
+
+
+
+div.list-product{
+    
+    width: 50%;
+    /* background-color: lightgreen; */
+    float: right;
+    font-size: 150%;
+    
+}
+
+div.list-product h2{
+    padding: 0.5em;
+    font-size: 145%;
+
+}
+
+div.list-product li{
+    padding: 0.3em;
+
+}
+
+
+

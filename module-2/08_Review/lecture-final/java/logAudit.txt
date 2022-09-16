@@ -1,0 +1,58 @@
+2022-08-11 at 22:35:28 EDT,Audit,Reading - Abba.txt
+2022-08-11 at 22:35:28 EDT,Audit,Reading - albums1.txt
+2022-08-11 at 22:35:28 EDT,Audit,Reading - Brightside.txt
+2022-08-11 at 22:35:28 EDT,Audit,Reading - Eagels-OneOfThoseNights.txt
+2022-08-11 at 22:35:28 EDT,Audit,Reading - genres.txt
+2022-08-11 at 22:35:28 EDT,Audit,Reading detail for - genres.txt - as a genre
+2022-08-11 at 22:35:28 EDT,Audit,Reading - Metallica.txt
+2022-08-11 at 22:35:28 EDT,Audit,Reading - Midtomnatten.txt
+2022-08-11 at 22:35:28 EDT,Audit,Reading - MorningGlory.txt
+2022-08-11 at 22:35:28 EDT,Audit,Reading - WhereDoWeGo.txt
+2022-08-11 at 22:35:28 EDT,Audit,Reading - Wombats.txt
+2022-08-11 at 22:35:28 EDT,Audit,Reading - Abba.txt
+2022-08-11 at 22:35:28 EDT,Audit,Reading detail for - Abba.txt - as a album
+2022-08-11 at 22:35:28 EDT,Audit,Reading - albums1.txt
+2022-08-11 at 22:35:28 EDT,Audit,Reading - Brightside.txt
+2022-08-11 at 22:35:28 EDT,Audit,Reading detail for - Brightside.txt - as a album
+2022-08-11 at 22:35:28 EDT,Audit,Reading - Eagels-OneOfThoseNights.txt
+2022-08-11 at 22:35:28 EDT,Audit,Reading detail for - Eagels-OneOfThoseNights.txt - as a album
+2022-08-11 at 22:35:28 EDT,Audit,Reading - genres.txt
+2022-08-11 at 22:35:28 EDT,Audit,Reading - Metallica.txt
+2022-08-11 at 22:35:28 EDT,Audit,Reading detail for - Metallica.txt - as a album
+2022-08-11 at 22:35:28 EDT,Audit,Reading - Midtomnatten.txt
+2022-08-11 at 22:35:28 EDT,Audit,Reading detail for - Midtomnatten.txt - as a album
+2022-08-11 at 22:35:28 EDT,Audit,Reading - MorningGlory.txt
+2022-08-11 at 22:35:28 EDT,Audit,Reading detail for - MorningGlory.txt - as a album
+2022-08-11 at 22:35:28 EDT,Audit,Reading - WhereDoWeGo.txt
+2022-08-11 at 22:35:28 EDT,Audit,Reading detail for - WhereDoWeGo.txt - as a album
+2022-08-11 at 22:35:28 EDT,Audit,Reading - Wombats.txt
+2022-08-11 at 22:35:28 EDT,Audit,Reading detail for - Wombats.txt - as a album
+2022-08-12 at 04:46:41 EDT,Audit,Reading - Abba.txt
+2022-08-12 at 04:46:41 EDT,Audit,Reading - albums1.txt
+2022-08-12 at 04:46:41 EDT,Audit,Reading - Brightside.txt
+2022-08-12 at 04:46:41 EDT,Audit,Reading - Eagels-OneOfThoseNights.txt
+2022-08-12 at 04:46:41 EDT,Audit,Reading - genres.txt
+2022-08-12 at 04:46:41 EDT,Audit,Reading detail for - genres.txt - as a genre
+2022-08-12 at 04:46:41 EDT,Audit,Reading - Metallica.txt
+2022-08-12 at 04:46:41 EDT,Audit,Reading - Midtomnatten.txt
+2022-08-12 at 04:46:41 EDT,Audit,Reading - MorningGlory.txt
+2022-08-12 at 04:46:41 EDT,Audit,Reading - WhereDoWeGo.txt
+2022-08-12 at 04:46:41 EDT,Audit,Reading - Wombats.txt
+2022-08-12 at 04:46:41 EDT,Audit,Reading - Abba.txt
+2022-08-12 at 04:46:41 EDT,Audit,Reading detail for - Abba.txt - as a album
+2022-08-12 at 04:46:41 EDT,Audit,Reading - albums1.txt
+2022-08-12 at 04:46:41 EDT,Audit,Reading - Brightside.txt
+2022-08-12 at 04:46:41 EDT,Audit,Reading detail for - Brightside.txt - as a album
+2022-08-12 at 04:46:41 EDT,Audit,Reading - Eagels-OneOfThoseNights.txt
+2022-08-12 at 04:46:41 EDT,Audit,Reading detail for - Eagels-OneOfThoseNights.txt - as a album
+2022-08-12 at 04:46:41 EDT,Audit,Reading - genres.txt
+2022-08-12 at 04:46:41 EDT,Audit,Reading - Metallica.txt
+2022-08-12 at 04:46:41 EDT,Audit,Reading detail for - Metallica.txt - as a album
+2022-08-12 at 04:46:41 EDT,Audit,Reading - Midtomnatten.txt
+2022-08-12 at 04:46:41 EDT,Audit,Reading detail for - Midtomnatten.txt - as a album
+2022-08-12 at 04:46:41 EDT,Audit,Reading - MorningGlory.txt
+2022-08-12 at 04:46:41 EDT,Audit,Reading detail for - MorningGlory.txt - as a album
+2022-08-12 at 04:46:41 EDT,Audit,Reading - WhereDoWeGo.txt
+2022-08-12 at 04:46:41 EDT,Audit,Reading detail for - WhereDoWeGo.txt - as a album
+2022-08-12 at 04:46:41 EDT,Audit,Reading - Wombats.txt
+2022-08-12 at 04:46:41 EDT,Audit,Reading detail for - Wombats.txt - as a album

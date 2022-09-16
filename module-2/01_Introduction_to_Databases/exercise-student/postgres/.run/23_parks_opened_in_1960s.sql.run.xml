@@ -1,0 +1,8 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="23_parks_opened_in_1960s.sql" type="DatabaseScript" editBeforeRun="true" nameIsGenerated="true">
+    <script-file value="$PROJECT_DIR$/Exercises/23_parks_opened_in_1960s.sql" />
+    <script-mode>FILE</script-mode>
+    <data-source id="8e499b57-10ae-4986-84e9-13fdf2e8439f" />
+    <method v="2" />
+  </configuration>
+</component>
